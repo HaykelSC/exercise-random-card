@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(6, 165, 51);
+}
+
+
+.centerContainer{
+    width: 300px;
+    height: 450px;
+    border-radius: 25px;
+    margin: auto;
+    background-color: white;
+}
+
+.cardHeaderContainer{
+    padding-top: 0px;
+    margin-bottom: 10px;
+}
+
+
+.iconOne {
+  font-size: 90px;
+  padding-left: 5px;
+}
+
+.cardLetterContainer{
+    font-size: 150px;
+    text-align: center;
+}
+
+.cardLetterContainer p{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.cardbottomContainer{
+    margin-top: 40px;
+    padding-right: 5px;
+    font-size: 90px;
+    margin-bottom: 15px;
+}
+
+#bottomContainer{
+    text-align: center;
+    margin-top: 50px;
+}
